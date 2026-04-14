@@ -72,8 +72,6 @@ int main()
 	Front(q);
 	Rear(q);
 	pop(&q);
-	Front(q);
-	Rear(q);
 	Rear(q);
 	return 0;
 }
