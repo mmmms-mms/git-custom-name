@@ -73,5 +73,6 @@ int main()
 	Rear(q);
 	pop(&q);
 	Rear(q);
+	Rear(q);
 	return 0;
 }
